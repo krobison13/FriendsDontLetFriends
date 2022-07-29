@@ -93,7 +93,7 @@ bad_example_1 <- example_data %>%
   labs(x = NULL,
        y = NULL,
        fill = NULL,
-       title = "Arc lenghts are misleading",
+       title = "Arc lengths are misleading",
        caption = "Outer rings = much longer arcs") +
   theme_minimal() +
   theme(
